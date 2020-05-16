@@ -10,4 +10,4 @@ b = 150000
 gép
 # alag
 # ez is
-# gép
+# gép2
