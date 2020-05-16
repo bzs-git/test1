@@ -10,3 +10,4 @@ b = 150000
 gép
 # alag
 # ez is
+#hub
