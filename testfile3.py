@@ -6,4 +6,4 @@ print('aaabbbccc')
 
 
 a = 125
-b = 15000
+b = 1.5
