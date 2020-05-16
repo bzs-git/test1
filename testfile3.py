@@ -11,3 +11,5 @@ gép
 # alag
 # ez is
 # gép2
+# gépnem
+# plusz
