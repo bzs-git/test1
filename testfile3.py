@@ -15,4 +15,4 @@ gep = 8
 # gép2
 # gépnem
 # plusz
-# végezuzugép
+#végezuzugithub
