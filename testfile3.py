@@ -1,4 +1,4 @@
-#testfile3.py
+# testfile3.py
 # eleje111
 
 
@@ -15,4 +15,4 @@ gep = 8
 # gép2
 # gépnem
 # plusz
-#végezuzu
+# végezuzugép
