@@ -1,4 +1,4 @@
-testfile3.py
+#testfile3.py
 # eleje111
 
 
@@ -9,7 +9,7 @@ print('aaabbbccc')
 
 a = 125
 b = 150000
-gép
+gep = 8
 # alag
 # ez is
 # gép2
