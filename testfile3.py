@@ -15,4 +15,4 @@ gép
 # gép2
 # gépnem
 # plusz
-# vége22222abc
+#végezuzu
