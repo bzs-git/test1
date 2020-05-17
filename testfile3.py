@@ -15,3 +15,4 @@ gép
 # gép2
 # gépnem
 # plusz
+#vége
