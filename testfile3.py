@@ -17,3 +17,5 @@ gep = 8
 # gépnem
 # plusz
 #végezuzugithub
+
+#módosítás
