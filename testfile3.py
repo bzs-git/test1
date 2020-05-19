@@ -18,4 +18,4 @@ gep = 8
 # plusz
 #végezuzugithub
 
-#módosítás
+#módosítás2
