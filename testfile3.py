@@ -8,7 +8,7 @@ print('aaabbbccc')
 
 
 a = 125
-b = 150000
+b = 1500000
 gép
 # alag
 # ez is+++
