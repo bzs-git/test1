@@ -8,3 +8,4 @@ if a == 2:
     b = 0
 else:
     b = 1
+    new = 4
