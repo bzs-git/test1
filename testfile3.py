@@ -22,3 +22,8 @@ gep = 8
 # sdn módosítása
 # sdn 2. módosítása
 # sdn 3. módosítása
+b = 1500000
+gép
+# alag
+# ez is+++
+# x módosítás
