@@ -1,3 +1,3 @@
 ssss
 
-sdn modositas - aaa
+sdnmodositas - aaa  # ez így jó
