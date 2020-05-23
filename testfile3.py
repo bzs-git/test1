@@ -19,3 +19,4 @@ gep = 8
 #végezuzugithub
 
 #módosítás2
+# sdn módosítása
