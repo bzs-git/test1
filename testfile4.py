@@ -4,4 +4,6 @@ sdn modositas
 
 abc modify
 
-a = 325
+
+
+a = 3*8
