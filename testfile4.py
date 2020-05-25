@@ -5,4 +5,5 @@ sdn modositas
 abc modify
 
 
-a = 3*8+13
+a = 3 * 8 + 13 * 2
+b = a - 1
